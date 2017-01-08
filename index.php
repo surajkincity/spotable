@@ -103,7 +103,7 @@ else                /* send the submitted data */
     else{       
         $from="From: $email<$email>\r\nReturn-path: $email";
         $website="Message sent using your contact form";
-        mail("info@spotable.in", $email, $website, $from);
+        mail("surajkincity@gmail.com", $email, $website, $from);
         echo "<h2 style='max-width:300px;color:white;'>Thanks, We will get back to you soon.</h2>";
         }
     }  
@@ -380,7 +380,7 @@ else                /* send the submitted data */
     else{       
         $from="From: $email<$email>\r\nReturn-path: $email";
         $message="Message sent using your contact form";
-        mail("info@spotable.in", $email, $message, $from);
+        mail("surajkincity@gmail.com", $email, $message, $from);
         echo "<h2 style='max-width:300px;'>Thanks, We will get back to you soon.</h2>";
         
         }
