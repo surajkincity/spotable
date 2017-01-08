@@ -100,7 +100,10 @@ else                /* send the submitted data */
         {
         echo "All fields are required, please fill <a href=\"\">the form</a> again.";
         }
-    else{       
+    else{ 
+        $file = fopen("leads.html","a+");
+        echo fwrite($file,"Hello World. Testing!");
+        fclose($file);
         $from="From: $email<$email>\r\nReturn-path: $email";
         $website="Message sent using your contact form";
         mail("surajkincity@gmail.com", $email, $website, $from);
