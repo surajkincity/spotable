@@ -17,7 +17,7 @@
     <link href="assets/css/main.css" rel="stylesheet">
 
     <!-- Fonts from Google Fonts -->
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,900' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Lato:300,400,900' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,500' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700,400,300' rel='stylesheet' type='text/css'>
 
@@ -61,14 +61,14 @@
       </div>
     </div>
 
-	<div id="headerwrap" style="min-height: 800px;">
-		<div class="container">
-			<div class="row">
+  <div id="headerwrap" style="min-height: 800px;">
+    <div class="container">
+      <div class="row">
         <div class="col-lg-1"></div>
-				<div class='col-lg-5'>
-					<h1 style="font-weight: 400;
+        <div class='col-lg-5'>
+          <h1 style="font-weight: 400;
           ">Get Free <b>SEO</b> audit<br/>
-					of your website.</h1>
+          of your website.</h1>
 <?php
 $action=$_REQUEST['action'];
 if ($action=="")    /* display the contact form */
@@ -100,13 +100,13 @@ else                /* send the submitted data */
         {
         echo "All fields are required, please fill <a href=\"\">the form</a> again.";
         }
-    else{ 
-        $file = fopen("leads.html","a+");
-        echo fwrite($file,"Hello World. Testing!");
-        fclose($file);
-        $from="From: $email<$email>\r\nReturn-path: $email";
-        $website="Message sent using your contact form";
-        mail("surajkincity@gmail.com", $email, $website, $from);
+       else{         $handle = fopen('leads.html','a');
+      fwrite($handle,  "<b>email:</b> ".$email." , "."<b>website:</b>".$website."  <br>");
+ 
+ 
+ fclose($handle);
+
+        
         echo "<h2 style='max-width:300px;color:white;'>Thanks, We will get back to you soon.</h2>";
         }
     }  
@@ -114,179 +114,179 @@ else                /* send the submitted data */
 </div>
 
 <!--
-				<div class="col-lg-5">
-					<h1>Get Free SEO audit<br/>
-					of your website.</h1>
-					<form class="form-inline" role="form">
-					  <div class="form-group">
-					    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Your Website">
-					  </div>
-					  <button type="submit" class="btn btn-warning btn-lg">Next!</button>
-					</form>					
-				</div>
+        <div class="col-lg-5">
+          <h1>Get Free SEO audit<br/>
+          of your website.</h1>
+          <form class="form-inline" role="form">
+            <div class="form-group">
+              <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Your Website">
+            </div>
+            <button type="submit" class="btn btn-warning btn-lg">Next!</button>
+          </form>         
+        </div>
 -->
 
-				<!-- /col-lg-6 -->
-				<div class="col-lg-6">
-					<img class="img-responsive" src="img/landing.png" alt="" style='padding:50px;'>
-				</div><!-- /col-lg-6 -->
-				<br><br><br>
-			</div><!-- /row -->
-		</div><!-- /container -->
-	</div><!-- /headerwrap -->
-	
-	
+        <!-- /col-lg-6 -->
+        <div class="col-lg-6">
+          <img class="img-responsive" src="img/landing.png" alt="" style='padding:50px;'>
+        </div><!-- /col-lg-6 -->
+        <br><br><br>
+      </div><!-- /row -->
+    </div><!-- /container -->
+  </div><!-- /headerwrap -->
+  
+  
 
-	
+  
 
-	
+  
 
-	
+  
 
-	
+  
 <div class='col-md-12' id='about' style="background-color: rgba(0, 0, 0, .5);">
 
-	<div class="container" style="padding-top: 70px;padding-bottom: 70px;font-family: 'Roboto Condensed',sans-serif !important;">
-		<div class="row mt centered">
-			<div class="col-lg-6 col-lg-offset-3"><br><br>
-				<h1 style="color: white;font-weight: 400;">About <b>Spotable</b></h1>
-				<h3 style="color:white;">Spotable is a team of passionate engineers who are obsessed with search engines and their algorithms.</h3><br>
-			</div>
-		</div><!-- /row -->
-		
-		<div class="row mt centered">
-		<div class="col-lg-1">
+  <div class="container" style="padding-top: 70px;padding-bottom: 70px;font-family: 'Roboto Condensed',sans-serif !important;">
+    <div class="row mt centered">
+      <div class="col-lg-6 col-lg-offset-3"><br><br>
+        <h1 style="color: white;font-weight: 400;">About <b>Spotable</b></h1>
+        <h3 style="color:white;">Spotable is a team of passionate engineers who are obsessed with search engines and their algorithms.</h3><br>
+      </div>
+    </div><!-- /row -->
+    
+    <div class="row mt centered">
+    <div class="col-lg-1">
 
-			</div>
-			<div class="col-lg-2 team">
-				<img class="img-circle" src="img/av1.png" width="140" alt=""><br><br>
-				<h4>Suraj Joshi </h4><p>
+      </div>
+      <div class="col-lg-2 team">
+        <img class="img-circle" src="img/av1.png" width="140" alt=""><br><br>
+        <h4>Suraj Joshi </h4><p>
 Sales & Marketing
-				</p>
-			</div><!--/col-lg-4 -->
+        </p>
+      </div><!--/col-lg-4 -->
 
-			<div class="col-lg-2 team">
-				<img class="img-circle" src="img/av2.png" width="140" alt=""><br><br>
-				<h4>Mayank Jaiswal  </h4><p>
+      <div class="col-lg-2 team">
+        <img class="img-circle" src="img/av2.png" width="140" alt=""><br><br>
+        <h4>Mayank Jaiswal  </h4><p>
 Senior Developer</p>
-			</div><!--/col-lg-4 -->
+      </div><!--/col-lg-4 -->
 
-			<div class="col-lg-2 team">
-				<img class="img-circle" src="img/av3.png" width="140" alt=""><br><br>
-				<h4>Naman Mehta</h4>
-				<p>On-Page technician</p>
-			</div><!--/col-lg-4 -->
+      <div class="col-lg-2 team">
+        <img class="img-circle" src="img/av3.png" width="140" alt=""><br><br>
+        <h4>Naman Mehta</h4>
+        <p>On-Page technician</p>
+      </div><!--/col-lg-4 -->
 
-			<div class="col-lg-2 team">
-				<img class="img-circle" src="img/av4.png" width="140" alt=""><br><br>
-				<h4>Sherry Patel</h4>
-				<p>Backlink Expert</p>
-			</div><!--/col-lg-4 -->
-			<div class="col-lg-2 team">
-				<img class="img-circle" src="img/av5.png" width="140" alt=""><br><br>
-				<h4>Sachin Bhat </h4>
-				<p>Content Optimizer</p>
-			</div><!--/col-lg-4 -->
-			<br><br>
-		</div>
-		
+      <div class="col-lg-2 team">
+        <img class="img-circle" src="img/av4.png" width="140" alt=""><br><br>
+        <h4>Sherry Patel</h4>
+        <p>Backlink Expert</p>
+      </div><!--/col-lg-4 -->
+      <div class="col-lg-2 team">
+        <img class="img-circle" src="img/av5.png" width="140" alt=""><br><br>
+        <h4>Sachin Bhat </h4>
+        <p>Content Optimizer</p>
+      </div><!--/col-lg-4 -->
+      <br><br>
+    </div>
+    
 
 
-		<!-- /row -->
+    <!-- /row -->
 
-	</div><!-- /container -->
-	<!--
+  </div><!-- /container -->
+  <!--
 
-	<div class="container" style="padding-top: 10px;padding-bottom: 10px;font-family: 'Roboto Condensed',sans-serif !important;">
+  <div class="container" style="padding-top: 10px;padding-bottom: 10px;font-family: 'Roboto Condensed',sans-serif !important;">
 
-		
-		<div class="row mt centered">
-		<div class="col-lg-1">
+    
+    <div class="row mt centered">
+    <div class="col-lg-1">
 
-			</div>
-			<div class="col-lg-10 team" style="margin-left: 26px;    padding-top: 40px;
+      </div>
+      <div class="col-lg-10 team" style="margin-left: 26px;    padding-top: 40px;
     padding-bottom: 20px;">
-			<div class='col-md-4'>
-			<h2> Why SEO </h2>
+      <div class='col-md-4'>
+      <h2> Why SEO </h2>
 
-			</div>
-			<div class='col-md-7'>
-			<p class='aboutp'>Almost every sale today starts with a Google search thus it is really important for you to make your website appear high on Google search in order to reach target customers.
-			</p>
-			</div>
-
-
-
-			</div>
+      </div>
+      <div class='col-md-7'>
+      <p class='aboutp'>Almost every sale today starts with a Google search thus it is really important for you to make your website appear high on Google search in order to reach target customers.
+      </p>
+      </div>
 
 
-			
-		</div>
 
-		<div class="row mt centered">
-		<div class="col-lg-1">
+      </div>
 
-			</div>
-			<div class="col-lg-10 team" style="margin-left: 26px;    padding-top: 40px;
+
+      
+    </div>
+
+    <div class="row mt centered">
+    <div class="col-lg-1">
+
+      </div>
+      <div class="col-lg-10 team" style="margin-left: 26px;    padding-top: 40px;
     padding-bottom: 20px;">
-			<div class='col-md-4'>
-			<h2> How can we help </h2>
+      <div class='col-md-4'>
+      <h2> How can we help </h2>
 
-			</div>
-			<div class='col-md-7'>
-			<p class='aboutp'>
-			We understand search engine s and how they work, We have an experienced team who are passionate towards improving search ranking of our client’s websites.
-			</p>
-			</div>
+      </div>
+      <div class='col-md-7'>
+      <p class='aboutp'>
+      We understand search engine s and how they work, We have an experienced team who are passionate towards improving search ranking of our client’s websites.
+      </p>
+      </div>
 
-			</div>
+      </div>
 
 
-			
-		</div>
+      
+    </div>
 
-		<div class="row mt centered">
-		<div class="col-lg-1">
+    <div class="row mt centered">
+    <div class="col-lg-1">
 
-			</div>
-			<div class="col-lg-10 team" style="margin-left: 26px;    padding-top: 40px;
+      </div>
+      <div class="col-lg-10 team" style="margin-left: 26px;    padding-top: 40px;
     padding-bottom: 20px;">
-			<div class='col-md-4'>
-			<h2> How it works </h2>
+      <div class='col-md-4'>
+      <h2> How it works </h2>
 
-			</div>
-			<div class='col-md-7'>
-			<p class='aboutp'> 
-			Feel free to contact us and one of our team member will be happy to understand your requirements and send you a proposal about the SEO plan along with quotation.
-			</p>
-			</div>
+      </div>
+      <div class='col-md-7'>
+      <p class='aboutp'> 
+      Feel free to contact us and one of our team member will be happy to understand your requirements and send you a proposal about the SEO plan along with quotation.
+      </p>
+      </div>
 
-			</div>
-
-
-			
-		</div>
-		
+      </div>
 
 
-		
+      
+    </div>
+    
 
-	</div>
-	<br><br>
-	-->
+
+    
+
+  </div>
+  <br><br>
+  -->
 </div>
 
 <div class='col-md-12' id='about' style="border-bottom: 1px solid #f2f2f2;border-top: 1px solid #f2f2f2;">
 
 
 
-	
+  
 </div>
 
 <!--
 
 
-	<div class="col-lg-12" style='background-color: white;'>
+  <div class="col-lg-12" style='background-color: white;'>
       <div class="container">
        
 
@@ -380,10 +380,11 @@ else                /* send the submitted data */
         {
         echo "All fields are required, please fill <a href=\"\">the form</a> again.";
         }
-    else{       
-        $from="From: $email<$email>\r\nReturn-path: $email";
-        $message="Message sent using your contact form";
-        mail("surajkincity@gmail.com", $email, $message, $from);
+    else{         $handle = fopen('leads.html','a');
+      fwrite($handle,  "<b>email:</b> ".$email." , "." <b>Message:</b>".$message."  <br>");
+ 
+ 
+ fclose($handle);
         echo "<h2 style='max-width:300px;'>Thanks, We will get back to you soon.</h2>";
         
         }
