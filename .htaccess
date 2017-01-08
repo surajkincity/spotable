@@ -1,6 +1,6 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST} ^spotable.in [nocase]
-RewriteRule ^(.*) https://www.spotable.in/$1 [last,redirect=301]
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^spotable.in [NC]
+RewriteRule ^(.*)$ http://www.spotable.in/$1 [L,R=301,NC]
 
 
 ErrorDocument 404 /404.php
