@@ -21,7 +21,7 @@
         <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,500' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700,400,300' rel='stylesheet' type='text/css'>
 
-    
+
     <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -64,11 +64,13 @@
   <div id="headerwrap" style="min-height: 800px;">
     <div class="container">
       <div class="row">
+        <br><br>
         <div class="col-lg-1"></div>
         <div class='col-lg-5'>
-          <h1 style="font-weight: 400;
-          ">Get Free <b>SEO</b> audit<br/>
-          of your website.</h1>
+
+          <h1 style="font-weight: 400;">
+            Receive <b>SEO</b> proposal<br/>
+          for your website.</h1>
 <?php
 $action=$_REQUEST['action'];
 if ($action=="")    /* display the contact form */
@@ -78,9 +80,9 @@ if ($action=="")    /* display the contact form */
 
 <input type="hidden" name="action" value="Send">
 
-<input type="text" class="form-control" id="exampleInputEmail1" name='website' placeholder="Website" style="    display: inline;margin-bottom: 10px;margin-top: 15px;">
+<input type="text" class="form-control" id="exampleInputEmail1" name='website' placeholder="Website" style="    display: inline;margin-bottom: 10px;margin-top: 15px;"><br>
 <input type="text" class="form-control" id="exampleInputEmail1" name='email' placeholder="Your Email" style="    display: inline;width:199px;margin-right: 5px;">
-            
+
             <button type="submit" class="btn btn-warning btn-lg" > Send! </button>
 
 
@@ -90,26 +92,26 @@ if ($action=="")    /* display the contact form */
 
 
     <?php
-    } 
+    }
 else                /* send the submitted data */
     {
     $website=$_REQUEST['website'];
     $email=$_REQUEST['email'];
 
-    if (($website=="")||($email==""))
+      if (($website=="")||($email==""))
         {
         echo "All fields are required, please fill <a href=\"\">the form</a> again.";
         }
        else{         $handle = fopen('leads.html','a');
       fwrite($handle,  "<b>email:</b> ".$email." , "."<b>website:</b>".$website."  <br>");
- 
- 
+
+
  fclose($handle);
 
-        
+
         echo "<h2 style='max-width:300px;color:white;'>Thanks, We will get back to you soon.</h2>";
         }
-    }  
+    }
 ?>
 </div>
 
@@ -122,7 +124,7 @@ else                /* send the submitted data */
               <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Your Website">
             </div>
             <button type="submit" class="btn btn-warning btn-lg">Next!</button>
-          </form>         
+          </form>
         </div>
 -->
 
@@ -134,26 +136,109 @@ else                /* send the submitted data */
       </div><!-- /row -->
     </div><!-- /container -->
   </div><!-- /headerwrap -->
-  
-  
 
-  
 
-  
 
-  
+  <div class='col-md-12' id='about' style="background-color:#3498db;color:white;">
+    <div class="container usp" style="padding-top: 40px;padding-bottom: 40px;font-family: 'Roboto Condensed',sans-serif !important;">
+      <div class='row mt centered'>
+        <div class='col-md-6'>
+          <img src='img/mansearching.png'>
 
-  
+        </div>
+        <div class='col-md-6 textblock'>
+          <p>Prior to making any purchase, Customers are using Google to help them decide what to buy and from whom.</p>
+
+        </div>
+
+      </div>
+      <hr style="border-top: dotted 2px;" />
+      <div class='row mt centered'>
+        <div class='col-md-6 textblock'>
+          <p>Having a sound SEO marketing plan will help you reach these potential customers and establish a brand.</p>
+
+        </div>
+        <div class='col-md-6'>
+          <img src='img/desk.png'>
+
+        </div>
+
+
+      </div>
+      <hr style="border-top: dotted 2px;" />
+      <div class='row mt centered'>
+        <div class='col-md-6' style="padding:2%;">
+
+          <?php
+          $action=$_REQUEST['action'];
+          if ($action=="")    /* display the contact form */
+              {
+              ?>
+              <form  class="form-inline" action="" method="POST" enctype="multipart/form-data" >
+
+          <input type="hidden" name="action" value="Send">
+
+          <input type="text" class="form-control" id="exampleInputEmail1" name='website' placeholder="Website" style="    display: inline;margin-bottom: 10px;margin-top: 15px;"><br>
+          <input type="text" class="form-control" id="exampleInputEmail1" name='email' placeholder="Your Email" style="    display: inline;width:199px;margin-right: 5px;">
+
+                      <button type="submit" class="btn btn-warning btn-lg" > Send! </button>
+
+
+
+          </form>
+
+
+
+              <?php
+              }
+          else                /* send the submitted data */
+              {
+              $website=$_REQUEST['website'];
+              $email=$_REQUEST['email'];
+
+              if (($website=="")||($email==""))
+                  {
+                  echo "All fields are required, please fill <a href=\"\">the form</a> again.";
+                  }
+                 else{         $handle = fopen('leads.html','a');
+                fwrite($handle,  "<b>email:</b> ".$email." , "."<b>website:</b>".$website."  <br>");
+
+
+           fclose($handle);
+
+
+                  echo "<h2 style='max-width:300px;color:white;'>Thanks, We will get back to you soon.</h2>";
+                  }
+              }
+          ?>
+
+        </div>
+        <div class='col-md-6 textblock'>
+
+            <p>We can help you compleately optimize your website. Please give us a chnage to send you a formal proposal.</p>
+
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
 <div class='col-md-12' id='about' style="background-color: rgba(0, 0, 0, .5);">
 
   <div class="container" style="padding-top: 70px;padding-bottom: 70px;font-family: 'Roboto Condensed',sans-serif !important;">
     <div class="row mt centered">
       <div class="col-lg-6 col-lg-offset-3"><br><br>
-        <h1 style="color: white;font-weight: 400;">About <b>Spotable</b></h1>
-        <h3 style="color:white;">Spotable is a team of passionate engineers who are obsessed with search engines and their algorithms.</h3><br>
+        <h1 style="color: white;font-weight: 400;">Our <b>Team</b></h1>
+        <h3 style="color:white;line-height:1.5;">We have a small team and we operate from our office in Pune, India. Our team includes some SEO specialists, full stack developers and even Google’s Ex-Employees.</h3><br>
       </div>
     </div><!-- /row -->
-    
+
     <div class="row mt centered">
     <div class="col-lg-1">
 
@@ -189,7 +274,7 @@ Senior Developer</p>
       </div><!--/col-lg-4 -->
       <br><br>
     </div>
-    
+
 
 
     <!-- /row -->
@@ -199,7 +284,7 @@ Senior Developer</p>
 
   <div class="container" style="padding-top: 10px;padding-bottom: 10px;font-family: 'Roboto Condensed',sans-serif !important;">
 
-    
+
     <div class="row mt centered">
     <div class="col-lg-1">
 
@@ -220,7 +305,7 @@ Senior Developer</p>
       </div>
 
 
-      
+
     </div>
 
     <div class="row mt centered">
@@ -242,7 +327,7 @@ Senior Developer</p>
       </div>
 
 
-      
+
     </div>
 
     <div class="row mt centered">
@@ -256,7 +341,7 @@ Senior Developer</p>
 
       </div>
       <div class='col-md-7'>
-      <p class='aboutp'> 
+      <p class='aboutp'>
       Feel free to contact us and one of our team member will be happy to understand your requirements and send you a proposal about the SEO plan along with quotation.
       </p>
       </div>
@@ -264,31 +349,26 @@ Senior Developer</p>
       </div>
 
 
-      
+
     </div>
-    
 
 
-    
+
+
 
   </div>
   <br><br>
   -->
 </div>
 
-<div class='col-md-12' id='about' style="border-bottom: 1px solid #f2f2f2;border-top: 1px solid #f2f2f2;">
 
-
-
-  
-</div>
 
 <!--
 
 
   <div class="col-lg-12" style='background-color: white;'>
       <div class="container">
-       
+
 
 
 <div class="row" style="padding-top: 70px;padding-bottom: 70px;">
@@ -336,14 +416,14 @@ Senior Developer</p>
 
 -->
 
-<div id='contact' class='col-md-12' style="background-color:rgba(255, 255, 255, 0.90);padding:80px;font-family: 'Roboto Condensed',sans-serif !important;border-bottom: 1px solid #f2f2f2;border-top: 1px solid #f2f2f2;" ><br><br>
+<div id='contact' class='col-md-12' style="background-color:rgba(255, 255, 255, 0.90);padding:80px;font-family: 'Roboto Condensed',sans-serif !important;border-bottom: 1px solid #f2f2f2;border-top: 1px solid #f2f2f2;" >
 <h2 style="text-align: center;color:#3498db;font-weight: 600;"  id='contact'>Contact <b>Us</b></h2><br>
- <h3 style="text-align: center;color:#3498db;">Lane 6 - The Mesh , Koregaon Park , Pune - 411001</h3><br><br>
+ <h3 style="text-align: center;color:#3498db;">Spotable, Lane 6 - The Mesh , Koregaon Park , Pune - 411001</h3><br><br>
 <div class='col-md-2'></div>
 <div class='col-md-4' style="margin-right: 20px;">
 
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.8714965400527!2d73.89619751489296!3d18.53470828740073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c10799b159eb%3A0x7563c4adb7ccfc2d!2sSpotable%2C+C-4%2C+Lane+Number+6%2C+Meera+Nagar%2C+Koregaon+Park%2C+Pune%2C+Maharashtra!5e0!3m2!1sen!2sin!4v1475583588220" scrolling="no" style='    border: 1px solid #cccccc;width:100%;height:225px;border-radius: 2px;box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.25) !important;' frameborder="0" style="border:0" scrolling="no" allowfullscreen></iframe><br><br>
-   
+
 
 </div>
 <div class='col-md-4'>
@@ -359,7 +439,7 @@ if ($action1=="")    /* display the contact form */
 
 <textarea type="text" class="form-control" id="exampleInputEmail1" name='message' placeholder="Your Message" style=" display: inline;width: 97%;height: 155px;" ></textarea><br><br>
 <input type="text" class="form-control" id="exampleInputEmail1" name='email' placeholder="Your Email" style="    display: inline;width: 75%;">
-            
+
             <button type="submit" class="btn btn-warning btn-lg" style="width: 22%;">Send</button>
 
 
@@ -369,7 +449,7 @@ if ($action1=="")    /* display the contact form */
 
 
     <?php
-    } 
+    }
 else                /* send the submitted data */
     {
     $message=$_REQUEST['message'];
@@ -382,16 +462,16 @@ else                /* send the submitted data */
         }
     else{         $handle = fopen('leads.html','a');
       fwrite($handle,  "<b>email:</b> ".$email." , "." <b>Message:</b>".$message."  <br>");
- 
- 
+
+
  fclose($handle);
         echo "<h2 style='max-width:300px;'>Thanks, We will get back to you soon.</h2>";
-        
+
         }
 
-    } 
+    }
 ?>
-<br><br>
+
 </div>
 
 </div>
@@ -415,7 +495,7 @@ else                /* send the submitted data */
             <li><a class='footerlink' href="#" style='color:white;font-weight: 400;'>info@Spotable.in</a></li>
             <li><a class='footerlink' href="#" style='color:white;font-weight: 400;'>+91 7276 888 089</a></li>
           </ul>
-                 
+
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
