@@ -231,11 +231,11 @@ else                /* send the submitted data */
 
 <div class='col-md-12' id='about' style="background-color: rgba(0, 0, 0, .5);">
 
-  <div class="container" style="padding-top: 70px;padding-bottom: 70px;font-family: 'Roboto Condensed',sans-serif !important;">
+  <div class="container" style="padding-top: 30px;padding-bottom: 50px;font-family: 'Roboto Condensed',sans-serif !important;">
     <div class="row mt centered">
       <div class="col-lg-6 col-lg-offset-3"><br><br>
         <h1 style="color: white;font-weight: 400;">Our <b>Team</b></h1>
-        <h3 style="color:white;line-height:1.5;">We have a small team and we operate from our office in Pune, India. Our team includes some SEO specialists, full stack developers and even Google’s Ex-Employees.</h3><br>
+    <h3 style="color:white;line-height:1.5;">Our team includes SEO specialists, full stack developers and even Google’s Ex-Employees.</h3><br>
       </div>
     </div><!-- /row -->
 
@@ -272,7 +272,7 @@ Senior Developer</p>
         <h4>Sachin Bhat </h4>
         <p>Content Optimizer</p>
       </div><!--/col-lg-4 -->
-      <br><br>
+
     </div>
 
 
@@ -280,6 +280,14 @@ Senior Developer</p>
     <!-- /row -->
 
   </div><!-- /container -->
+
+
+
+
+</div>
+
+
+
   <!--
 
   <div class="container" style="padding-top: 10px;padding-bottom: 10px;font-family: 'Roboto Condensed',sans-serif !important;">
@@ -359,7 +367,7 @@ Senior Developer</p>
   </div>
   <br><br>
   -->
-</div>
+
 
 
 
@@ -414,11 +422,16 @@ Senior Developer</p>
 
 </div>
 
--->
+
 
 <div id='contact' class='col-md-12' style="background-color:rgba(255, 255, 255, 0.90);padding:80px;font-family: 'Roboto Condensed',sans-serif !important;border-bottom: 1px solid #f2f2f2;border-top: 1px solid #f2f2f2;" >
-<h2 style="text-align: center;color:#3498db;font-weight: 600;"  id='contact'>Contact <b>Us</b></h2><br>
- <h3 style="text-align: center;color:#3498db;">Spotable, Lane 6 - The Mesh , Koregaon Park , Pune - 411001</h3><br><br>
+
+
+</div>  -->
+
+
+<div class="col-lg-12" style='background-color: rgba(0, 0, 0, 0.7);padding:60px;'>
+<br>
 <div class='col-md-2'></div>
 <div class='col-md-4' style="margin-right: 20px;">
 
@@ -472,14 +485,9 @@ else                /* send the submitted data */
     }
 ?>
 
+<!-- <h3 style="text-align: center;color:white;">Spotable, Lane 6 - The Mesh , Koregaon Park , Pune - 411001</h3><br><br> -->
 </div>
-
-</div>
-
-
-
-
-
+<div class='col-md-2'></div></div>
 
 
 
