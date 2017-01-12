@@ -430,7 +430,7 @@ Senior Developer</p>
 </div>  -->
 
 
-<div class="col-lg-12" style='background-color: rgba(0, 0, 0, 0.7);padding:60px;'>
+<div class="col-lg-12" style='background-color: rgba(0, 0, 0, 0.6);padding:60px;'>
 <br>
 <div class='col-md-2'></div>
 <div class='col-md-4' style="margin-right: 20px;">
