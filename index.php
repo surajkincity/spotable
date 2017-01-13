@@ -32,7 +32,7 @@
       h2{color: #3498db;}
       .aboutp {    color: #95a5a6;
     font-weight: 400; font-size: 22px;}
-      body{font-family: 'Roboto Condensed',sans-serif !important; background-image: url('img/background1.jpg');background-attachment: fixed;}
+      body{font-family: 'Roboto Condensed',sans-serif !important; background-image: url('img/background1-min.jpg');background-attachment: fixed;}
     </style>
   </head>
 
@@ -61,7 +61,7 @@
       </div>
     </div>
 
-  <div id="headerwrap" style="min-height: 800px;">
+  <div id="headerwrap" style="">
     <div class="container">
       <div class="row">
         <br><br>
@@ -69,7 +69,7 @@
         <div class='col-lg-5'>
 
           <h1 style="font-weight: 400;">
-            Receive <b>SEO</b> proposal<br/>
+            Get <b>SEO</b> proposal<br/>
           for your website.</h1>
 <?php
 $action=$_REQUEST['action'];
@@ -130,7 +130,7 @@ else                /* send the submitted data */
 
         <!-- /col-lg-6 -->
         <div class="col-lg-6">
-          <img class="img-responsive" src="img/landing.png" alt="" style='padding:50px;'>
+          <img class="img-responsive desktop" src="img/landing.png" alt="" style='padding:50px;'>
         </div><!-- /col-lg-6 -->
         <br><br><br>
       </div><!-- /row -->
@@ -143,7 +143,7 @@ else                /* send the submitted data */
     <div class="container usp" style="padding-top: 40px;padding-bottom: 40px;font-family: 'Roboto Condensed',sans-serif !important;">
       <div class='row mt centered'>
         <div class='col-md-6'>
-          <img src='img/mansearching.png'>
+          <img src='img/mansearching.png'><br><br><br>
 
         </div>
         <div class='col-md-6 textblock'>
@@ -158,8 +158,8 @@ else                /* send the submitted data */
           <p>Having a sound SEO marketing plan will help you reach these potential customers and establish a brand.</p>
 
         </div>
-        <div class='col-md-6'>
-          <img src='img/desk.png'>
+        <div class='col-md-6'><br>
+          <img src='img/desk.png'><br>
 
         </div>
 
@@ -185,7 +185,7 @@ else                /* send the submitted data */
 
 
 
-          </form>
+          </form><br><br>
 
 
 
@@ -496,7 +496,7 @@ else                /* send the submitted data */
 
 
 <div class="col-lg-12" style='background-color: #3498db; '>
-      <div class="container">
+      <div class="container desktop">
         <div class="navbar-header">
                   <ul class="nav navbar-nav navbar-right">
             <li><a class='footerlink' href="#" style='color:white;font-weight: 400; background-color:#3498db !important;'>©Spotable</a></li>
@@ -513,6 +513,16 @@ else                /* send the submitted data */
           </ul>
         </div><!--/.nav-collapse -->
       </div>
+      <div class="container mobile footermobile">
+        <div>
+          <p>
+info@Spotable.in  &nbsp;&nbsp;&nbsp;  +91 7276-888-089
+</p>
+        </div>
+
+
+      </div>
+
 
 </div>
     <!-- Bootstrap core JavaScript
