@@ -180,10 +180,12 @@ i {
 
 @media screen and (max-width: 600px) {
   .desktop{display: none;}
+
   #headerwrap{padding-top:70px;}
 }
 @media screen and (min-width: 601px) {
   .mobile{display: none;}
+  .ending{padding:60px;}
   #headerwrap{min-height: 800px ;	padding-top:200px;}
 }
 
