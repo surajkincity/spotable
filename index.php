@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="assets/img/favicon.png">
+    <link rel="shortcut icon" href="img/favicon.png">
 
     <title>Spotable</title>
 
@@ -65,6 +65,27 @@
     <div class="container">
       <div class="row">
         <br><br>
+
+
+
+<!--
+        <div class="col-lg-5">
+          <h1>Get Free SEO audit<br/>
+          of your website.</h1>
+          <form class="form-inline" role="form">
+            <div class="form-group">
+              <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Your Website">
+            </div>
+            <button type="submit" class="btn btn-warning btn-lg">Next!</button>
+          </form>
+        </div>
+-->
+
+        <!-- /col-lg-6 -->
+        <div class="col-lg-1"></div>
+        <div class="col-lg-5">
+          <img class="img-responsive desktop" src="img/landing.png" alt="" style='padding:50px;'>
+        </div>
         <div class="col-lg-1"></div>
         <div class='col-lg-5'>
 
@@ -109,38 +130,28 @@ else                /* send the submitted data */
  fclose($handle);
 
 
-        echo "<h2 style='max-width:300px;color:white;'>Thanks, We will get back to you soon.</h2>";
+        echo "<p style='max-width:300px;color:white;'>Thanks, We will get back to you soon.</p>";
         }
     }
 ?>
-</div>
+</div><!-- /col-lg-6 -->
+        <br>
 
-<!--
-        <div class="col-lg-5">
-          <h1>Get Free SEO audit<br/>
-          of your website.</h1>
-          <form class="form-inline" role="form">
-            <div class="form-group">
-              <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Your Website">
-            </div>
-            <button type="submit" class="btn btn-warning btn-lg">Next!</button>
-          </form>
-        </div>
--->
-
-        <!-- /col-lg-6 -->
-        <div class="col-lg-6">
-          <img class="img-responsive desktop" src="img/landing.png" alt="" style='padding:50px;'>
-        </div><!-- /col-lg-6 -->
-        <br><br><br>
+        <br><br>
       </div><!-- /row -->
+
     </div><!-- /container -->
   </div><!-- /headerwrap -->
 
 
 
-  <div class='col-md-12' id='about' style="background-color:#3498db;color:white;">
-    <div class="container usp" style="padding-top: 40px;padding-bottom: 40px;font-family: 'Roboto Condensed',sans-serif !important;">
+  <div class='col-md-12'  style="background-color:#3498db;color:white;">
+    <div class="container usp" style="padding-bottom: 40px;font-family: 'Roboto Condensed',sans-serif !important;">
+
+<div class='row mt centered'>
+<h1 style="text-align:center;font-weight:600;color:white;">Spotable is a SEO company located in Pune</h1>
+<p style="font-weight:400;font-size:18px;">We love helping startup in optimizing there website to gain more visiblity in google search.</p>
+</div><hr style="border-top: dotted 2px;" />
       <div class='row mt centered'>
         <div class='col-md-6'>
           <img src='img/mansearching.png'><br><br><br>
@@ -213,7 +224,7 @@ else                /* send the submitted data */
           ?>
 
         </div>
-        <div class='col-md-6 textblock'>
+        <div class='col-md-6 textblock' >
 
             <p>We can help you compleately optimize your website. Please give us a chnage to send you a formal proposal.</p>
 
@@ -430,7 +441,7 @@ Senior Developer</p>
 </div>  -->
 
 
-<div class="col-lg-12 ending" style='background-color: rgba(0, 0, 0, 0.6);'>
+<div class="col-lg-12 ending" id='contact' style='background-color: rgba(0, 0, 0, 0.6);'>
 <br>
 <div class='col-md-2'></div>
 <div class='col-md-4' style="margin-right: 20px;">
@@ -495,11 +506,11 @@ else                /* send the submitted data */
 
 
 
-<div class="col-lg-12" style='background-color: #3498db; '>
+<div class="col-lg-12" style='background-color: black; '>
       <div class="container desktop">
         <div class="navbar-header">
                   <ul class="nav navbar-nav navbar-right">
-            <li><a class='footerlink' href="#" style='color:white;font-weight: 400; background-color:#3498db !important;'>©Spotable</a></li>
+            <li><a class='footerlink' href="#" style='color:white;font-weight: 400; '>©Spotable</a></li>
             <li><a class='footerlink' href="#" style='color:white;font-weight: 400;'>info@Spotable.in</a></li>
             <li><a class='footerlink' href="#" style='color:white;font-weight: 400;'>+91 7276 888 089</a></li>
           </ul>
