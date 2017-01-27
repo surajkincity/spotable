@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="img/favicon.png">
 
-    <title>Spotable</title>
+    <title>SEO company in Pune | Spotable</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
