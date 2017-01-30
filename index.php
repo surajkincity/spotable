@@ -9,6 +9,7 @@
     <link rel="shortcut icon" href="img/favicon.png">
 
     <title>SEO company in Pune | Spotable</title>
+    <meta name="description" content="We have an experienced team which includes SEO specialists, full stack developers and even Google’s Ex-Employees.">
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -136,8 +137,8 @@ else                /* send the submitted data */
     <div class="container usp" style="padding-bottom: 40px;font-family: 'Roboto Condensed',sans-serif !important;">
 
 <div class='row mt centered'><br>
-<h1 style="text-align:center;font-weight:600;color:white;">Spotable is a SEO company located in Pune</h1>
-<p style="font-weight:400;font-size:18px;">We optimize our client's websites which helps them reach their target customers via search engines like Google.</p>
+<h1 style="text-align:center;font-weight:600;color:white;">Spotable is a SEO company located in Pune (India)</h1>
+<p style="font-weight:400;font-size:18px;padding-right:13%;padding-left:13%;">Out motto is to help out small and medium companies in digital marketing, We optimize our their websites which enables them reach their target customers via search engines like Google.</p>
 </div><hr style="border-top: dotted 2px;" />
       <div class='row mt centered'>
         <div class='col-md-6'>
@@ -153,7 +154,7 @@ else                /* send the submitted data */
       <hr style="border-top: dotted 2px;" />
       <div class='row mt centered'>
         <div class='col-md-6 textblock'>
-          <p>Along with traditional SEO techniques we also use artificial intelligence to outperform our competitors in the industry.</p>
+          <p>Along with traditional SEO techniques we also use artificial intelligence to outperform other companies in the industry.</p>
 
         </div>
         <div class='col-md-6'><br>
@@ -233,7 +234,7 @@ else                /* send the submitted data */
     <div class="row mt centered">
       <div class="col-lg-6 col-lg-offset-3"><br><br>
         <h2 style="color: white;font-weight: 400;font-size:42px;">Our <b>Team</b></h2>
-        <p style="color:white;font-weight:400;font-size:18px;">We understand Search engines and their algorithm</p>
+        <p style="color:white;font-weight:400;font-size:18px;">Our highly tallended team works out from our office in Pune, India. In order to make sure you get the best results, We are exploring Search engines and their algorithm everyday.</p>
 
       </div>
     </div><!-- /row -->
