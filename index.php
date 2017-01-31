@@ -72,7 +72,7 @@
         <!-- /col-lg-6 -->
         <div class="col-lg-1"></div>
         <div class="col-lg-5">
-          <img class="img-responsive desktop" src="img/landing.png" alt="" style='padding:50px;'>
+          <img class="img-responsive desktop" src="img/laptop.png" alt="laptop image" style='padding:50px;'>
         </div>
         <div class="col-lg-1"></div>
         <div class='col-lg-5'>
@@ -142,7 +142,7 @@ else                /* send the submitted data */
 </div><hr style="border-top: dotted 2px;" />
       <div class='row mt centered'>
         <div class='col-md-6'>
-          <img src='img/rocket.png'><br><br><br>
+          <img src='img/freelance.png' alt="freelancer logo"><br><br><br>
 
         </div>
         <div class='col-md-6 textblock'>
@@ -158,7 +158,7 @@ else                /* send the submitted data */
 
         </div>
         <div class='col-md-6'><br>
-          <img src='img/mansearching.png'><br>
+          <img src='img/computer.png' alt="AI computer"><br>
 
         </div>
 
@@ -244,31 +244,31 @@ else                /* send the submitted data */
 
       </div>
       <div class="col-lg-2 team">
-        <img class="img-circle" src="img/av1.png" width="140" alt=""><br><br>
+        <img class="img-circle" src="img/surajjoshi.png" width="140" alt="surajjoshi from Pune"><br><br>
         <h4>Suraj Joshi </h4><p>
 Sales & Marketing
         </p>
       </div><!--/col-lg-4 -->
 
       <div class="col-lg-2 team">
-        <img class="img-circle" src="img/av2.png" width="140" alt=""><br><br>
+        <img class="img-circle" src="img/mayankjaiswal.png" width="140" alt="Mayank Jaiswal from maharashtra"><br><br>
         <h4>Mayank Jaiswal  </h4><p>
 Senior Developer</p>
       </div><!--/col-lg-4 -->
 
       <div class="col-lg-2 team">
-        <img class="img-circle" src="img/av3.png" width="140" alt=""><br><br>
+        <img class="img-circle" src="img/namanmehta.png" width="140" alt="Naman Mehta from Mumbai"><br><br>
         <h4>Naman Mehta</h4>
         <p>On-Page technician</p>
       </div><!--/col-lg-4 -->
 
       <div class="col-lg-2 team">
-        <img class="img-circle" src="img/av4.png" width="140" alt=""><br><br>
+        <img class="img-circle" src="img/sherrypatel.png" width="140" alt="Sherry Patel from Kothrude Pune"><br><br>
         <h4>Sherry Patel</h4>
         <p>Backlink Expert</p>
       </div><!--/col-lg-4 -->
       <div class="col-lg-2 team">
-        <img class="img-circle" src="img/av5.png" width="140" alt=""><br><br>
+        <img class="img-circle" src="img/sachinbhat.png" width="140" alt="Sachin Bhat from koregaon park Pune"><br><br>
         <h4>Sachin Bhat </h4>
         <p>Content Optimizer</p>
       </div><!--/col-lg-4 -->
