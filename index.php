@@ -53,8 +53,8 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li><a style="font-weight: 400;
-          " href="#about">About</a></li>
+            <li><a style="font-weight: 400;" href="#about">About</a></li>
+            <li><a style="font-weight: 400;" href="contact.php">Contact</a></li>
 
 
           </ul>
@@ -308,7 +308,7 @@ Senior Developer</p>
       <div class="container desktop">
         <div class="navbar-header">
                   <ul class="nav navbar-nav navbar-right">
-
+            <li><a class='footerlink' href="#" style='color:white;font-weight: 400; '>©Spotable</a></li>
             <li><a class='footerlink' href="#" style='color:white;font-weight: 400;'>info@Spotable.in</a></li>
             <li><a class='footerlink' href="#" style='color:white;font-weight: 400;'>+91 7276 888 089</a></li>
           </ul>
@@ -316,7 +316,8 @@ Senior Developer</p>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li><a class='footerlink' href="#" style='color:white;font-weight: 400; '>©Spotable</a></li>
+
+            <li><a class='footerlink' href="contact.php" style='color:white;font-weight: 400;'>Contact</a></li>
             <li><a class='footerlink' href="#about" style='color:white;font-weight: 400;'>About</a></li>
 
 
