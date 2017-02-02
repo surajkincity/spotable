@@ -41,7 +41,7 @@
   <body>
 
     <!-- Fixed navbar -->
-    <div class="navbar navbar-default navbar-fixed-top">
+    <div class="navbar navbar-default navbar-fixed-top" style="background-color:#3498db;">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -53,7 +53,7 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li><a style="font-weight: 400;" href="#about">About</a></li>
+            <li><a style="font-weight: 400;" href="index.php">About</a></li>
             <li><a style="font-weight: 400;" href="contact.php">Contact</a></li>
 
 
@@ -62,16 +62,16 @@
       </div>
     </div>
 
-  <div id="contactpage" style="">
+  <div id="contactpage" style="background-color:white;">
     <div class="container">
       <div class="row">
 
+<h1>Contact <b>Spotable</b></h1>
+
+<br><p style="text-align:center;">Send across your query, We are happy to assist you in the best way possible.</p><br>
 
 
-
-
-
-<div class="col-lg-12 ending" id='contact' style='background-color: rgba(0, 0, 0, 0.6);'>
+<div class="col-lg-12" id=''>
 <br>
 <div class='col-md-2'></div>
 <div class='col-md-4' style="margin-right: 20px;">
@@ -160,7 +160,7 @@ else                /* send the submitted data */
 
 
 
-<div class="col-lg-12" style='background-color: rgba(0, 0, 0, .7); '>
+<div class="col-lg-12" style='background-color: #3498db '>
       <div class="container desktop">
         <div class="navbar-header">
                   <ul class="nav navbar-nav navbar-right">
@@ -174,7 +174,7 @@ else                /* send the submitted data */
           <ul class="nav navbar-nav navbar-right">
 
             <li><a class='footerlink' href="contact.php" style='color:white;font-weight: 400;'>Contact</a></li>
-            <li><a class='footerlink' href="#about" style='color:white;font-weight: 400;'>About</a></li>
+            <li><a class='footerlink' href="index.php" style='color:white;font-weight: 400;'>About</a></li>
 
 
           </ul>
