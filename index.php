@@ -49,11 +49,11 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#" style='font-size: 32px;padding-top: 20px;'><b>Spotable</b></a>
+          <a class="navbar-brand" href="www.spotable.in" style='font-size: 32px;padding-top: 20px;'><b>Spotable</b></a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li><a style="font-weight: 400;" href="#about">About</a></li>
+            <li><a style="font-weight: 400;" href="about-spotable.php">About</a></li>
             <li><a style="font-weight: 400;" href="contact.php">Contact</a></li>
 
 
@@ -318,7 +318,7 @@ Senior Developer</p>
           <ul class="nav navbar-nav navbar-right">
 
             <li><a class='footerlink' href="contact.php" style='color:white;font-weight: 400;'>Contact</a></li>
-            <li><a class='footerlink' href="#about" style='color:white;font-weight: 400;'>About</a></li>
+            <li><a class='footerlink' href="about-spotable.php" style='color:white;font-weight: 400;'>About</a></li>
 
 
           </ul>
