@@ -94,7 +94,7 @@ else                /* send the submitted data */
 
 <div class='row mt centered'><br>
 <h1 style="text-align:center;font-weight:600;color:white;">Spotable is a SEO company located in Pune (India)</h1>
-<p style="font-weight:400;font-size:18px;padding-right:13%;padding-left:13%;">Out motto is to help out small and medium companies in digital marketing, We optimize our their websites which enables them reach their target customers via search engines like Google.</p>
+<p style="font-weight:400;font-size:18px;padding-right:13%;padding-left:13%;">Out motto is to help out small and medium companies in digital marketing, We optimize their websites and make them visible in google search for keywords that are being searched by their customers. </p>
 </div><hr style="border-top: dotted 2px;" />
       <div class='row mt centered'>
         <div class='col-md-6'>
