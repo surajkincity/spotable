@@ -106,9 +106,18 @@ a:after {
     padding: 0;
 }
 
+@media screen and (min-width: 480px) {
 .navbar-default {
-	background-color: rgba(0, 0, 0, .1);
+	background-color: rgba(0, 0, 0, .2);
 	border-color: transparent;
+}
+}
+
+@media screen and (max-width: 480px) {
+.navbar-default {
+  background-color: rgba(0, 0, 0, .6);
+  border-color: transparent;
+    }
 }
 
 .navbar-default .navbar-brand {
