@@ -89,7 +89,7 @@ else                /* send the submitted data */
 
 
 
-  <div class='col-md-12' id='about' style="background-color:white;color:white;">
+  <div class='col-md-12' id='about' style="background-color:white;">
     <div class="container usp" style="padding-bottom: 40px;font-family: 'Roboto Condensed',sans-serif !important;">
 
 <div class='row mt centered'><br>
