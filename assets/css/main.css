@@ -38,7 +38,7 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-font-family: 'Roboto Condensed',sans-serif !important;
+
     font-weight: 600;
     color: #7d7d7d;
 }
@@ -109,14 +109,14 @@ a:after {
 
 @media screen and (min-width: 480px) {
 .navbar-default {
-	background-color: rgba(0, 0, 0, .2);
+
 	border-color: transparent;
 }
 }
 
 @media screen and (max-width: 480px) {
 .navbar-default {
-  background-color: rgba(0, 0, 0, .6);
+
   border-color: transparent;
     }
 }

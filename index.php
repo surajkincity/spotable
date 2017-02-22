@@ -17,7 +17,7 @@
     <!-- Fixed navbar -->
 <?PHP include "assets/include/nav.html" ; ?>
 
-  <div id="headerwrap" style="">
+  <div id="headerwrap" >
     <div class="container">
       <div class="row">
         <br><br>
