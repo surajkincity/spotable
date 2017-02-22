@@ -28,7 +28,7 @@
         <!-- /col-lg-6 -->
         <div class="col-lg-1"></div>
         <div class="col-lg-5">
-          <img class="img-responsive desktop" src="img/laptop.png" alt="laptop image" style='height:400px;'>
+          <img class="img-responsive desktop" src="img/laptop.png" alt="laptop image" style='height:350px;'>
         </div>
         <div class="col-lg-1"></div>
         <div class='col-lg-5'>
@@ -184,7 +184,7 @@ else                /* send the submitted data */
 
 
 
-<div class='col-md-12'  style="background-color: rgba(0, 0, 0, .5);">
+<div class='col-md-12'  style="">
 
   <div class="container" style="padding-top: 30px;padding-bottom: 50px;font-family: 'Roboto Condensed',sans-serif !important;">
     <div class="row mt centered">
