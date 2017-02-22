@@ -7,7 +7,7 @@
     #footerstrip {background-color: rgba(0, 0, 0, .7); }
       .aboutp {    color: #95a5a6;
     font-weight: 400; font-size: 22px;}
-      body{font-family: 'Roboto Condensed',sans-serif !important; background-image: url('img/background1-min.jpg');background-attachment: fixed;}
+      body{ background-color: dodgerblue;background-attachment: fixed;}
     </style>
     <?PHP include "assets/include/externalfiles.html" ; ?>
   </head>
@@ -28,11 +28,11 @@
         <!-- /col-lg-6 -->
         <div class="col-lg-1"></div>
         <div class="col-lg-5">
-          <img class="img-responsive desktop" src="img/laptop.png" alt="laptop image" style='padding:50px;'>
+          <img class="img-responsive desktop" src="img/laptop.png" alt="laptop image" style='height:400px;'>
         </div>
         <div class="col-lg-1"></div>
         <div class='col-lg-5'>
-<br><br>
+<br><br><br>
           <h2 style="font-weight: 400;color:white;font-size:42px;">
             Get <b>SEO</b> proposal<br/>
           for your website.</h2>
