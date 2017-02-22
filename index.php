@@ -7,7 +7,7 @@
     #footerstrip {background-color: rgba(0, 0, 0, .7); }
       .aboutp {    color: #95a5a6;
     font-weight: 400; font-size: 22px;}
-      body{ background-color: dodgerblue;background-attachment: fixed;}
+
     </style>
     <?PHP include "assets/include/externalfiles.html" ; ?>
   </head>
