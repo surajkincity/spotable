@@ -122,7 +122,7 @@ a:after {
 }
 
 .navbar-default .navbar-brand {
-	color: white;    background-color: transparent;
+	color: white;    background-color: rgba(0, 0, 0, 0.5);
 }
 
 .navbar-default .navbar-nav > li > a {
