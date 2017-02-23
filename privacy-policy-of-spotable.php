@@ -5,8 +5,7 @@
     <title>Privacy Policy of SPotable</title>
     <meta name="description" content="We have an experienced team which includes SEO specialists, full stack developers and even Google’s Ex-Employees.">
     <style type="text/css">
-    #footerstrip{background-color: #3498db}
-    #mainmenu {background-color:#3498db;}
+
 
       .aboutp {    color: #95a5a6;
     font-weight: 400; font-size: 22px;}
