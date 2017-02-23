@@ -26,7 +26,7 @@
   }
 
 body {
-background-color: royalblue!important;
+background-color: dodgerblue!important;
 /* font-family: 'Roboto Condensed',sans-serif !important; */
     font-weight: 300;
     font-size: 16px;
@@ -196,5 +196,5 @@ i {
 #contactpage {padding-top: 9% !important;padding-bottom: 9% !important;min-height: 100%;}
 #aboutpage h1{text-align: center !important;}
 #aboutpage
-#footerstrip{background-color: royalblue!important;}
+#footerstrip{background-color: dodgerblue!important;}
 #aboutpagetext {font-size: 20px !important;font-family: arial; padding:5%;}
