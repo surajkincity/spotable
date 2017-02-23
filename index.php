@@ -4,7 +4,7 @@
     <title>SEO company in Pune | Spotable</title>
     <meta name="description" content="We have an experienced team which includes SEO specialists, full stack developers and even Google’s Ex-Employees.">
     <style type="text/css">
-  
+
       .aboutp {    color: #95a5a6;
     font-weight: 400; font-size: 22px;}
 
@@ -136,7 +136,7 @@ else                /* send the submitted data */
           <input type="text" class="form-control" id="exampleInputEmail1" name='website' placeholder="Website" style="    display: inline;margin-bottom: 10px;margin-top: 15px;"><br>
           <input type="text" class="form-control" id="exampleInputEmail1" name='email' placeholder="Your Email" style="    display: inline;width:199px;margin-right: 5px;">
 
-                      <button type="submit" class="btn btn-warning btn-lg" > Send! </button>
+                      <button type="submit" class="btn btn-warning btn-lg" > Send </button>
 
 
 

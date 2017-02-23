@@ -130,7 +130,7 @@ a:after {
 }
 
 /* Helpers */
-
+.btn-warning{background-color: #ffdb79!important;font-weight: 600!important;}
 .mt {
 	margin-top: 40px;
 	margin-bottom: 40px;
