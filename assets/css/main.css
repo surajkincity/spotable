@@ -130,7 +130,9 @@ a:after {
 }
 
 /* Helpers */
-.btn-warning{background-color: #ffdb79!important;font-weight: 600!important;border-color: #ffdb79!important;}
+.btn-warning{    background-color: #353f49!important;
+    font-weight: 600!important;
+    border-color: #353f49!important;}
 .mt {
 	margin-top: 40px;
 	margin-bottom: 40px;
