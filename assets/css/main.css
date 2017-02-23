@@ -133,6 +133,7 @@ a:after {
 .btn-warning{    background-color: #353f49!important;
     font-weight: 600!important;
     border-color: #353f49!important;}
+    input{border-color: 0px solid !important;}
 .mt {
 	margin-top: 40px;
 	margin-bottom: 40px;
