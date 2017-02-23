@@ -4,7 +4,7 @@
     <title>SEO company in Pune | Spotable</title>
     <meta name="description" content="We have an experienced team which includes SEO specialists, full stack developers and even Google’s Ex-Employees.">
     <style type="text/css">
-    #footerstrip {background-color: rgba(0, 0, 0, .7); }
+  
       .aboutp {    color: #95a5a6;
     font-weight: 400; font-size: 22px;}
 

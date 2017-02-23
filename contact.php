@@ -4,8 +4,7 @@
     <title>Contact Us | Spotable Pune</title>
     <meta name="description" content="Contact spotable for your SEO questions or if you need assistance in SEO for your website.">
     <style type="text/css">
-    #mainmenu {background-color:#3498db;}
-    #footerstrip{background-color: #3498db}
+
 
       .aboutp {    color: #95a5a6;
     font-weight: 400; font-size: 22px;}
