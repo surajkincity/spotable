@@ -48,7 +48,7 @@ if ($action=="")    /* display the contact form */
 <input type="text" class="form-control" id="exampleInputEmail1" name='website' placeholder="Website" style="    display: inline;margin-bottom: 10px;margin-top: 15px;"><br>
 <input type="text" class="form-control" id="exampleInputEmail1" name='email' placeholder="Your Email" style="    display: inline;width:199px;margin-right: 5px;">
 
-            <button type="submit" class="btn btn-warning btn-lg" > Send! </button>
+            <button type="submit" class="btn btn-warning btn-lg" > Send </button>
 
 
 
