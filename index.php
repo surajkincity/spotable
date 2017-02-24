@@ -183,7 +183,18 @@ else                /* send the submitted data */
     </div>
   </div>
 
+  <div class="ctadiv">
+    <div class='container'>
+      <div class='row'>
+        <form>
+          <input placeholder="Name"></input>
+          <input placeholder="Mobile"></input>
+          <button class="btn" style="background-color:#f1f1f1;"><b>Get in touch!</b></button>
+        </form>
 
+       </div>
+     </div>
+   </div>
 
 
 
