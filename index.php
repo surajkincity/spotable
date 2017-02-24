@@ -106,7 +106,7 @@ else                /* send the submitted data */
     background-color: white;">
     <div class="container" >
 
-<h2 style="text-align: center;color:#00b0ff;font-size: 42px; "> How we work </h2>
+<h2 style="text-align: center;font-size: 48px;font-weight: 400; "> How we <span style='color:#00b0ff;'>work</span> </h2>
 
 
 

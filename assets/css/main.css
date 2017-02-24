@@ -7,7 +7,7 @@
  * URL: http://blacktie.co
  */
 .footerlink:hover{background-color:transparent !important;}
-#howwework{padding: 4%;    border-bottom: 3px solid lightgrey;    border-top: 3px solid lightgrey;}
+#howwework{padding: 4%;    border-bottom: 3px solid #f1f1f1;    border-top: 3px solid #f1f1f1;}
 #howwework .row{padding: 4%!important;}
 #howwework p {  text-align: left !important;font-size:18px;padding: 5%;}
 #howwework h4{font-size:42px !important;font-weight: 300 !important;}
