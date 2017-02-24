@@ -185,7 +185,7 @@ else                /* send the submitted data */
 
   <div class="ctadiv">
     <div class='container'>
-      <div class='row'>
+      <div class='row'><br><br><br>
         <form>
           <input  placeholder="Website"></input>
           <input  placeholder="Email"></input>
