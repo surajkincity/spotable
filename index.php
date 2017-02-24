@@ -108,7 +108,7 @@ else                /* send the submitted data */
     <div class="container" >
 
 <h2 style="text-align: center;font-size: 48px;font-weight: 400; "> How we <span style='color:#00b0ff;'>work</span> </h2>
-<p style="text-align:center;">
+<p style="text-align:center !important;">
   We SEO services can be summarized into these 6 core steps
 
 </p><br><br>
