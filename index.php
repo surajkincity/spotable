@@ -187,8 +187,8 @@ else                /* send the submitted data */
     <div class='container'>
       <div class='row'>
         <form>
-          <input placeholder="Website"></input>
-          <input placeholder="Email"></input>
+          <input class="form-control" placeholder="Website"></input>
+          <input class="form-control" placeholder="Email"></input>
           <button class="btn btn-warning btn-lg" style=""><b>Get Quote</b></button>
         </form>
 
