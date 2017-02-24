@@ -101,8 +101,9 @@ else                /* send the submitted data */
   </div>
 
 </div>
+<hr style="border-top: dotted 2px;">
 <div class='col-md-12' id='howwework' style="padding: 5%;
-    background-color: #fbfbfb;">
+    background-color: white;">
     <div class="container" >
 
 <h2 style="text-align: center;color:#00b0ff;font-size: 42px; "> How we work </h2>
