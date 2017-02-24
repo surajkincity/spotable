@@ -111,7 +111,7 @@ else                /* send the submitted data */
 <p style="text-align:center !important;">
   We SEO services can be summarized into these 6 core steps
 
-</p><br><br>
+</p>
 
 
 
