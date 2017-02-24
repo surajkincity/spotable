@@ -93,7 +93,7 @@ else                /* send the submitted data */
     <div class="container usp" style="padding-bottom: 40px;  ">
 
 <div class='row mt centered'><br>
-<h1 style="text-align:center;font-weight: 400;"><span style='color: #00b0ff'>Spotable</span> is a SEO company located in Pune</h1>
+<h1 style="text-align:center;font-weight: 400;"><span style='color: #00b0ff;'>Spotable</span> is a SEO company located in Pune</h1>
 <p  class="aboutustext" style="">Spotable is a digital marketing company specializing in SEO.  From small startups to establish companies, We are helping everyone to make the most out of their digital marketing campaigns. Our team includes some SEO specialists, full stack developers and even Google’s Ex-Employees. We want to provide quality SEO services at affordable prices to new budding startups. </p>
 
 
@@ -102,7 +102,7 @@ else                /* send the submitted data */
 </div>
 
 
-<h2> How we work </h2>
+<h2 style="text-align: center;color:#00b0ff; "> How we work </h2>
 
 
 
@@ -111,7 +111,7 @@ else                /* send the submitted data */
         <h4>Step 1</h4>
         <h3>Keyword research</h3>
         </div>
-        <div class='col-md-6 textblock' >
+        <div class='col-md-6 ' >
         <p></p>
        </div>
       </div>
@@ -120,7 +120,7 @@ else                /* send the submitted data */
         <div class='col-md-6 step'>
         <p></p>
         </div>
-        <div class='col-md-6 textblock' >
+        <div class='col-md-6 ' >
         <h4>Step 2</h4>
         <h3>Site Structure</h3>
        </div>
@@ -131,7 +131,7 @@ else                /* send the submitted data */
         <h4>Step 3</h4>
         <h3>On-Page</h3>
         </div>
-        <div class='col-md-6 textblock' >
+        <div class='col-md-6 ' >
         <p></p>
        </div>
       </div>
@@ -140,7 +140,7 @@ else                /* send the submitted data */
         <div class='col-md-6 step'>
         <p></p>
         </div>
-        <div class='col-md-6 textblock' >
+        <div class='col-md-6 ' >
         <h4>Step 4</h4>
         <h3>Off-Page</h3>
        </div>
@@ -151,7 +151,7 @@ else                /* send the submitted data */
         <h4>Step 5</h4>
         <h3>Reporting</h3>
         </div>
-        <div class='col-md-6 textblock' >
+        <div class='col-md-6 ' >
         <p></p>
        </div>
       </div>
