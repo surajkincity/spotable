@@ -8,7 +8,12 @@
  */
 .footerlink:hover{background-color:transparent !important;}
 #howwework{padding: 4%;    border-bottom: 2px solid #f1f1f1;    border-top: 1px solid #f1f1f1;}
-
+.ctadiv input{    height: 42px;
+    font-size: 18px;
+    width: 280px;border: 0px solid #cccccc !important;display: inline-block;padding: 6px 12px;line-height: 1.428571429;
+    color: #555555;
+    vertical-align: middle;
+    background-color: #ffffff;    border-radius: 4px;}
 #howwework p {  text-align: left !important;font-size:18px;padding: 5%;}
 #howwework h4{font-size:42px !important;font-weight: 300 !important;}
 #howwework h3{font-size:36px !important;font-weight: 400 !important;text-align: left;padding-left: 4%;}
