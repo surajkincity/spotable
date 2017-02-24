@@ -102,16 +102,17 @@ else                /* send the submitted data */
 </div>
 
 
-
+<h2> How we work </h2>
 
 
 
       <div class='row mt centered'>
         <div class='col-md-6 step'>
-        <p></p>
+        <h4>Step 1</h4>
+        <h3>Keyword research</h3>
         </div>
         <div class='col-md-6 textblock' >
-        <h3></h3>
+        <p></p>
        </div>
       </div>
 
@@ -120,16 +121,18 @@ else                /* send the submitted data */
         <p></p>
         </div>
         <div class='col-md-6 textblock' >
-        <h3></h3>
+        <h4>Step 2</h4>
+        <h3>Site Structure</h3>
        </div>
       </div>
 
       <div class='row mt centered'>
         <div class='col-md-6 step'>
-        <p></p>
+        <h4>Step 3</h4>
+        <h3>On-Page</h3>
         </div>
         <div class='col-md-6 textblock' >
-        <h3></h3>
+        <p></p>
        </div>
       </div>
 
@@ -138,16 +141,18 @@ else                /* send the submitted data */
         <p></p>
         </div>
         <div class='col-md-6 textblock' >
-        <h3></h3>
+        <h4>Step 4</h4>
+        <h3>Off-Page</h3>
        </div>
       </div>
 
       <div class='row mt centered'>
         <div class='col-md-6 step'>
-        <p></p>
+        <h4>Step 5</h4>
+        <h3>Reporting</h3>
         </div>
         <div class='col-md-6 textblock' >
-        <h3></h3>
+        <p></p>
        </div>
       </div>
 
