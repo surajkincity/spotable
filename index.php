@@ -185,12 +185,14 @@ else                /* send the submitted data */
 
   <div class="ctadiv">
     <div class='container'>
-      <div class='row'><br><br><br>
+      <div class='row'>
+        <div class="col-md-12">
         <form>
           <input  placeholder="Website"></input>
           <input  placeholder="Email"></input>
           <button class="btn btn-warning btn-lg" style=""><b>Get Quote</b></button>
         </form>
+      </div>
 
        </div>
      </div>
