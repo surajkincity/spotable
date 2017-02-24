@@ -105,7 +105,7 @@ else                /* send the submitted data */
     background-color: #fbfbfb;">
     <div class="container" >
 
-<h2 style="text-align: center;color:#00b0ff; "> How we work </h2>
+<h2 style="text-align: center;color:#00b0ff;font-size: 42px; "> How we work </h2>
 
 
 
