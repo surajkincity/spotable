@@ -99,9 +99,9 @@ else                /* send the submitted data */
 
     </div>
   </div>
-
-</div>
 <hr style="border-top: dotted 2px;">
+</div>
+
 <div class='col-md-12' id='howwework' style="padding: 5%;
     background-color: white;">
     <div class="container" >
@@ -171,7 +171,7 @@ else                /* send the submitted data */
         <p>At the end of every month, we will send you a report on how your site is performing in terms of ranking in google as well as improvement in  traffic.</p>
         </div>
         <div class='col-md-6 ' >
-        <h4>Step 4</h4>
+        <h4>Step 6/h4>
        
        </div>
       </div>
