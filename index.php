@@ -93,7 +93,7 @@ else                /* send the submitted data */
     <div class="container usp" style="padding-bottom: 40px;  ">
 
 <div class='row mt centered'><br>
-<h1 style="text-align:center;font-weight: 400;">Spotable is a <b>SEO company</b> located in Pune.</h1>
+<h1 style="text-align:center;font-weight: 400;"><span style='color: #00b0ff'>Spotable</span> is a <b>SEO</b> company located in Pune.</h1>
 <p  class="aboutustext" style="">Spotable is a digital marketing company specializing in SEO.  From small startups to establish companies, We are helping everyone to make the most out of their digital marketing campaigns. Our team includes some SEO specialists, full stack developers and even Google’s Ex-Employees. We want to provide quality SEO services at affordable prices to new budding startups. </p>
 
 
