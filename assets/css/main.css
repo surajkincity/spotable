@@ -141,7 +141,7 @@ a:after {
     .form-control{border: 0px solid #cccccc !important;}
 .mt {
 	margin-top: 40px;
-	margin-bottom: 40px;padding: 4%;
+	margin-bottom: 40px;padding: 2%;
 }
 
 .form-control {
@@ -207,4 +207,3 @@ i {
 #footerstrip{background-color: #00b0ff!important;}
 #aboutpagetext {font-size: 20px !important;font-family: arial; padding:5%;}
 .aboutustext{    padding: 3% 12% 3% 12%;text-align: left;font-size:18px;}
-

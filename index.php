@@ -147,14 +147,12 @@ else                /* send the submitted data */
 
        <div class='row mt centered'>
         <div class='col-md-6 step'>
+          <h4>Step 4</h4>
         </div>
-        <div class='col-md-6 ' >
-        <h4>Step 4</h4>
-
-       </div>
+        <div class='col-md-6 ' >       
         <h3>Off-Page</h3>
         <p>With the help of our network we continuously develop good links and Ensure that you have the most relevant, high authority backlink profile from your relevant niche. </p>
-
+        </div>
       </div>
 
       <div class='row mt centered'>
