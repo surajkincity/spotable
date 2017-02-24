@@ -93,7 +93,7 @@ else                /* send the submitted data */
     <div class="container usp" style="padding-bottom: 40px;  ">
 
 <div class='row mt centered'><br>
-<h1 style="text-align:center;font-weight: 400;"><span style='color: #00b0ff'>Spotable</span> is a SEO company located in Pune.</h1>
+<h1 style="text-align:center;font-weight: 400;"><span style='color: #00b0ff'>Spotable</span> is a SEO company located in Pune</h1>
 <p  class="aboutustext" style="">Spotable is a digital marketing company specializing in SEO.  From small startups to establish companies, We are helping everyone to make the most out of their digital marketing campaigns. Our team includes some SEO specialists, full stack developers and even Google’s Ex-Employees. We want to provide quality SEO services at affordable prices to new budding startups. </p>
 
 
@@ -105,87 +105,54 @@ else                /* send the submitted data */
 
 
 
-<hr style="border-top: dotted 2px;" />
+
       <div class='row mt centered'>
-        <div class='col-md-6'>
-          <img src='img/freelance.png' alt="freelancer logo"><br><br><br>
-
-        </div>
-        <div class='col-md-6 textblock'>
-          <p>We have an experienced team which includes SEO specialists, full stack developers and even Google’s Ex-Employees.</p>
-
-        </div>
-
-      </div>
-      <hr style="border-top: dotted 2px;" />
-      <div class='row mt centered'>
-        <div class='col-md-6 textblock'>
-          <p>Along with traditional SEO techniques we also use artificial intelligence to outperform other companies in the industry.</p>
-
-        </div>
-        <div class='col-md-6'><br>
-          <img src='img/computer.png' alt="AI computer"><br>
-
-        </div>
-
-
-      </div>
-      <hr style="border-top: dotted 2px;" />
-      <div class='row mt centered'>
-        <div class='col-md-6' style="padding:2%;">
-
-          <?php
-          $action=$_REQUEST['action'];
-          if ($action=="")    /* display the contact form */
-              {
-              ?>
-              <form  class="form-inline" action="" method="POST" enctype="multipart/form-data" >
-
-          <input type="hidden" name="action" value="Send">
-
-          <input type="text" class="form-control" id="exampleInputEmail1" name='website' placeholder="Website" style="    display: inline;margin-bottom: 10px;margin-top: 15px;"><br>
-          <input type="text" class="form-control" id="exampleInputEmail1" name='email' placeholder="Your Email" style="    display: inline;width:199px;margin-right: 5px;">
-
-                      <button type="submit" class="btn btn-warning btn-lg" > Send </button>
-
-
-
-          </form><br><br>
-
-
-
-              <?php
-              }
-          else                /* send the submitted data */
-              {
-              $website=$_REQUEST['website'];
-              $email=$_REQUEST['email'];
-
-              if (($website=="")||($email==""))
-                  {
-                  echo "All fields are required, please fill <a href=\"\">the form</a> again.";
-                  }
-                 else{         $handle = fopen('leads.html','a');
-                fwrite($handle,  "<b>email:</b> ".$email." , "."<b>website:</b>".$website."  <br>");
-
-
-           fclose($handle);
-
-
-                  echo "<h2 style='max-width:300px;color:white;'>Thanks, We will get back to you soon.</h2>";
-                  }
-              }
-          ?>
-
+        <div class='col-md-6 step'>
+        <p></p>
         </div>
         <div class='col-md-6 textblock' >
+        <h3></h3>
+       </div>
+      </div>
 
-            <p>Feel free to contact us, One of our team members will send you a personalised SEO proposal along with quotation.</p>
-
-
+       <div class='row mt centered'>
+        <div class='col-md-6 step'>
+        <p></p>
         </div>
-
+        <div class='col-md-6 textblock' >
+        <h3></h3>
+       </div>
       </div>
+
+      <div class='row mt centered'>
+        <div class='col-md-6 step'>
+        <p></p>
+        </div>
+        <div class='col-md-6 textblock' >
+        <h3></h3>
+       </div>
+      </div>
+
+       <div class='row mt centered'>
+        <div class='col-md-6 step'>
+        <p></p>
+        </div>
+        <div class='col-md-6 textblock' >
+        <h3></h3>
+       </div>
+      </div>
+
+      <div class='row mt centered'>
+        <div class='col-md-6 step'>
+        <p></p>
+        </div>
+        <div class='col-md-6 textblock' >
+        <h3></h3>
+       </div>
+      </div>
+
+
+
     </div>
   </div>
 
@@ -194,63 +161,7 @@ else                /* send the submitted data */
 
 
 
-<div class='col-md-12'  style="">
 
-  <div class="container" style="padding-top: 30px;padding-bottom: 50px;font-family: 'Roboto Condensed',sans-serif !important;">
-    <div class="row mt centered">
-      <div class="col-lg-6 col-lg-offset-3"><br><br>
-        <h2 style="color: white;font-weight: 400;font-size:42px;">Our <b>Team</b></h2>
-        <p style="color:white;font-weight:400;font-size:18px;">Our highly tallended team works out from our office in Pune, India. In order to make sure you get the best results, We are exploring Search engines and their algorithm everyday.</p>
-
-      </div>
-    </div><!-- /row -->
-
-    <div class="row mt centered">
-    <div class="col-lg-1">
-
-      </div>
-      <div class="col-lg-2 team">
-        <img class="img-circle" src="img/surajjoshi.png" width="140" alt="surajjoshi from Pune"><br><br>
-        <h4>Suraj Joshi </h4><p>
-Sales & Marketing
-        </p>
-      </div><!--/col-lg-4 -->
-
-      <div class="col-lg-2 team">
-        <img class="img-circle" src="img/mayankjaiswal.png" width="140" alt="Mayank Jaiswal from maharashtra"><br><br>
-        <h4>Mayank Jaiswal  </h4><p>
-Senior Developer</p>
-      </div><!--/col-lg-4 -->
-
-      <div class="col-lg-2 team">
-        <img class="img-circle" src="img/namanmehta.png" width="140" alt="Naman Mehta from Mumbai"><br><br>
-        <h4>Naman Mehta</h4>
-        <p>On-Page technician</p>
-      </div><!--/col-lg-4 -->
-
-      <div class="col-lg-2 team">
-        <img class="img-circle" src="img/sherrypatel.png" width="140" alt="Sherry Patel from Kothrude Pune"><br><br>
-        <h4>Sherry Patel</h4>
-        <p>Backlink Expert</p>
-      </div><!--/col-lg-4 -->
-      <div class="col-lg-2 team">
-        <img class="img-circle" src="img/sachinbhat.png" width="140" alt="Sachin Bhat from koregaon park Pune"><br><br>
-        <h4>Sachin Bhat </h4>
-        <p>Content Optimizer</p>
-      </div><!--/col-lg-4 -->
-
-    </div>
-
-
-
-
-
-  </div>
-
-
-
-
-</div>
 
 
 

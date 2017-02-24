@@ -22,7 +22,63 @@
 <?PHP include "assets/include/nav.html" ; ?>
 
     <!-- Fixed navbar -->
+<div class='col-md-12'  style="">
 
+  <div class="container" style="padding-top: 30px;padding-bottom: 50px;font-family: 'Roboto Condensed',sans-serif !important;">
+    <div class="row mt centered">
+      <div class="col-lg-6 col-lg-offset-3"><br><br>
+        <h2 style="color: white;font-weight: 400;font-size:42px;">Our <b>Team</b></h2>
+        <p style="color:white;font-weight:400;font-size:18px;">Our highly tallended team works out from our office in Pune, India. In order to make sure you get the best results, We are exploring Search engines and their algorithm everyday.</p>
+
+      </div>
+    </div><!-- /row -->
+
+    <div class="row mt centered">
+    <div class="col-lg-1">
+
+      </div>
+      <div class="col-lg-2 team">
+        <img class="img-circle" src="img/surajjoshi.png" width="140" alt="surajjoshi from Pune"><br><br>
+        <h4>Suraj Joshi </h4><p>
+Sales & Marketing
+        </p>
+      </div><!--/col-lg-4 -->
+
+      <div class="col-lg-2 team">
+        <img class="img-circle" src="img/mayankjaiswal.png" width="140" alt="Mayank Jaiswal from maharashtra"><br><br>
+        <h4>Mayank Jaiswal  </h4><p>
+Senior Developer</p>
+      </div><!--/col-lg-4 -->
+
+      <div class="col-lg-2 team">
+        <img class="img-circle" src="img/namanmehta.png" width="140" alt="Naman Mehta from Mumbai"><br><br>
+        <h4>Naman Mehta</h4>
+        <p>On-Page technician</p>
+      </div><!--/col-lg-4 -->
+
+      <div class="col-lg-2 team">
+        <img class="img-circle" src="img/sherrypatel.png" width="140" alt="Sherry Patel from Kothrude Pune"><br><br>
+        <h4>Sherry Patel</h4>
+        <p>Backlink Expert</p>
+      </div><!--/col-lg-4 -->
+      <div class="col-lg-2 team">
+        <img class="img-circle" src="img/sachinbhat.png" width="140" alt="Sachin Bhat from koregaon park Pune"><br><br>
+        <h4>Sachin Bhat </h4>
+        <p>Content Optimizer</p>
+      </div><!--/col-lg-4 -->
+
+    </div>
+
+
+
+
+
+  </div>
+
+
+
+
+</div>
 
     <div id="aboutpage" style="background-color:white;">
       <div class="container">
