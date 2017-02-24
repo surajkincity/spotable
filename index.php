@@ -28,11 +28,11 @@
         <!-- /col-lg-6 -->
         <div class="col-lg-1"></div>
         <div class="col-lg-5">
-          <img class="img-responsive desktop" src="img/laptop.png" alt="laptop image" style='height:350px;'>
+          <img class="img-responsive desktop" src="img/laptop.png" alt="laptop image" style='height:320px;'>
         </div>
         <div class="col-lg-1"></div>
         <div class='col-lg-5'>
-<br><br><br>
+<br><br>
           <h2 style="font-weight: 400;color:white;font-size:42px;">
             Get <b>SEO</b> proposal<br/>
           for your website.</h2>
