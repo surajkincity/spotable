@@ -27,8 +27,8 @@
   <div class="container" >
     <div class="row mt centered">
       <div class="col-lg-6 col-lg-offset-3"><br><br>
-        <h2 style="font-weight: 400;font-size:42px;">Our <b>Team</b></h2>
-        <p style="font-weight:400;font-size:18px;">Our highly tallended team works out from our office in Pune, India. In order to make sure you get the best results, We are exploring Search engines and their algorithm everyday.</p>
+        <h2 style="font-weight: 400;font-size:42px;color: white;">Our <b>Team</b></h2>
+        <p style="font-size:18px;color: white;">Our highly tallended team works out from our office in Pune, India. In order to make sure you get the best results, We are exploring Search engines and their algorithm everyday.</p>
 
       </div>
     </div><!-- /row -->
