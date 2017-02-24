@@ -107,7 +107,7 @@ else                /* send the submitted data */
     background-color: white;">
     <div class="container" >
 
-<h2 style="text-align: center;font-size: 48px;font-weight: 400; "> How we <span style='color:#00b0ff;'>work</span> </h2>
+<h2 style="text-align: center;font-size: 48px;font-weight: 400; "> How we <span style='color:#00b0ff;'>work</span> </h2><br><br>
 
 
 
@@ -149,7 +149,7 @@ else                /* send the submitted data */
         <div class='col-md-6 step'>
           <h4>Step 4</h4>
         </div>
-        <div class='col-md-6 ' >       
+        <div class='col-md-6 ' >
         <h3>Off-Page</h3>
         <p>With the help of our network we continuously develop good links and Ensure that you have the most relevant, high authority backlink profile from your relevant niche. </p>
         </div>

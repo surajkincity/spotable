@@ -8,7 +8,7 @@
  */
 .footerlink:hover{background-color:transparent !important;}
 #howwework{padding: 4%;    border-bottom: 3px solid #f1f1f1;    border-top: 3px solid #f1f1f1;}
-#howwework .row{padding: 2%!important;}
+
 #howwework p {  text-align: left !important;font-size:18px;padding: 5%;}
 #howwework h4{font-size:42px !important;font-weight: 300 !important;}
 #howwework h3{font-size:36px !important;font-weight: 400 !important;text-align: left;padding-left: 4%;}
@@ -140,8 +140,8 @@ a:after {
     border-color: #353f49!important;}
     .form-control{border: 0px solid #cccccc !important;}
 .mt {
-	margin-top: 40px;
-	margin-bottom: 40px;padding: 2%;
+	margin-top: 10px;
+	margin-bottom: 10px;padding: 2%;
 }
 
 .form-control {
