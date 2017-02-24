@@ -8,7 +8,7 @@
 
       .aboutp {    color: #95a5a6;
     font-weight: 400; font-size: 22px;}
-      body{font-family: 'Roboto Condensed',sans-serif !important; background-image: url('img/background1-min.jpg');background-attachment: fixed;}
+      
     </style>
     <?PHP include "assets/include/externalfiles.html" ; ?>
   </head>
