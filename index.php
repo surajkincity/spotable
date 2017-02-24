@@ -112,13 +112,13 @@ else                /* send the submitted data */
         <h3>Keyword research</h3>
         </div>
         <div class='col-md-6 ' >
-        <p></p>
+        <p>It all starts with a keyword research, We analyse your website, competitors and google search data to finalize on the keyword which are most appropriate to target.</p>
        </div>
       </div>
 
        <div class='row mt centered'>
         <div class='col-md-6 step'>
-        <p></p>
+        <p>Next we identify and assign the web pages which will be used to target these keywords. And construct a site  structure for your website.</p>
         </div>
         <div class='col-md-6 ' >
         <h4>Step 2</h4>
@@ -132,13 +132,13 @@ else                /* send the submitted data */
         <h3>On-Page</h3>
         </div>
         <div class='col-md-6 ' >
-        <p></p>
+        <p>With the help of some of our internally developed AI softwares we make sure that all your pages are optimised as per Google’s latest algorithms. </p>
        </div>
       </div>
 
        <div class='row mt centered'>
         <div class='col-md-6 step'>
-        <p></p>
+        <p>With the help of our network we continuously develop good links and Ensure that you have the most relevant, high authority backlink profile from your relevant niche. </p>
         </div>
         <div class='col-md-6 ' >
         <h4>Step 4</h4>
@@ -149,10 +149,20 @@ else                /* send the submitted data */
       <div class='row mt centered'>
         <div class='col-md-6 step'>
         <h4>Step 5</h4>
-        <h3>Reporting</h3>
+        <h3>Site-Wide issues</h3>
         </div>
         <div class='col-md-6 ' >
-        <p></p>
+        <p>We also take care of the proper Indexation and rendering of your desired pages. Optimize Local results and fix any manual or algorithmic penalty imposed by google</p>
+       </div>
+      </div>
+
+        <div class='row mt centered'>
+        <div class='col-md-6 step'>
+        <p>At the end of every month, we will send you a report on how your site is performing in terms of ranking in google as well as improvement in  traffic.</p>
+        </div>
+        <div class='col-md-6 ' >
+        <h4>Step 4</h4>
+        <h3>Reporting</h3>
        </div>
       </div>
 
