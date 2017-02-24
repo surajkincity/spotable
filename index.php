@@ -97,7 +97,8 @@ else                /* send the submitted data */
 <p  class="aboutustext" style="">Spotable is a digital marketing company specializing in SEO.  From small startups to establish companies, We are helping everyone to make the most out of their digital marketing campaigns. Our team includes some SEO specialists, full stack developers and even Google’s Ex-Employees. We want to provide quality SEO services at affordable prices to new budding startups. </p>
 
 
-
+    </div>
+  </div>
 
 </div>
 <div class='col-md-12' id='howwework' style="background-color:;">
@@ -167,8 +168,7 @@ else                /* send the submitted data */
        </div>
       </div>
 
-    </div>
-  </div>
+
 
     </div>
   </div>
