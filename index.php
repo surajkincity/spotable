@@ -122,14 +122,15 @@ else                /* send the submitted data */
       </div>
 
        <div class='row mt centered'>
-        <div class='col-md-6 step'>
-        <h3>Site Structure</h3>
-        <p>Next we identify and assign the web pages which will be used to target these keywords. And construct a site  structure for your website.</p>
-        </div>
         <div class='col-md-6 ' >
         <h4>Step 2</h4>
         
        </div>
+        <div class='col-md-6 step'>
+        <h3>Site Structure</h3>
+        <p>Next we identify and assign the web pages which will be used to target these keywords. And construct a site  structure for your website.</p>
+        </div>
+
       </div>
 
       <div class='row mt centered'>
@@ -145,13 +146,14 @@ else                /* send the submitted data */
 
        <div class='row mt centered'>
         <div class='col-md-6 step'>
-        <h3>Off-Page</h3>
-        <p>With the help of our network we continuously develop good links and Ensure that you have the most relevant, high authority backlink profile from your relevant niche. </p>
         </div>
         <div class='col-md-6 ' >
         <h4>Step 4</h4>
         
        </div>
+        <h3>Off-Page</h3>
+        <p>With the help of our network we continuously develop good links and Ensure that you have the most relevant, high authority backlink profile from your relevant niche. </p>
+
       </div>
 
       <div class='row mt centered'>
@@ -166,14 +168,15 @@ else                /* send the submitted data */
       </div>
 
         <div class='row mt centered'>
-        <div class='col-md-6 step'>
-         <h3>Reporting</h3>
-        <p>At the end of every month, we will send you a report on how your site is performing in terms of ranking in google as well as improvement in  traffic.</p>
-        </div>
         <div class='col-md-6 ' >
         <h4>Step 6</h4>
        
        </div>
+        <div class='col-md-6 step'>
+         <h3>Reporting</h3>
+        <p>At the end of every month, we will send you a report on how your site is performing in terms of ranking in google as well as improvement in  traffic.</p>
+        </div>
+        
       </div>
 
 
