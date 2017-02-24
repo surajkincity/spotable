@@ -22,13 +22,13 @@
 <?PHP include "assets/include/nav.html" ; ?>
 
     <!-- Fixed navbar -->
-<div class='col-md-12'  style="">
+<div class='aboutteam'>
 
-  <div class="container" style="padding-top: 30px;padding-bottom: 50px;font-family: 'Roboto Condensed',sans-serif !important;">
+  <div class="container" >
     <div class="row mt centered">
       <div class="col-lg-6 col-lg-offset-3"><br><br>
-        <h2 style="color: white;font-weight: 400;font-size:42px;">Our <b>Team</b></h2>
-        <p style="color:white;font-weight:400;font-size:18px;">Our highly tallended team works out from our office in Pune, India. In order to make sure you get the best results, We are exploring Search engines and their algorithm everyday.</p>
+        <h2 style="font-weight: 400;font-size:42px;">Our <b>Team</b></h2>
+        <p style="font-weight:400;font-size:18px;">Our highly tallended team works out from our office in Pune, India. In order to make sure you get the best results, We are exploring Search engines and their algorithm everyday.</p>
 
       </div>
     </div><!-- /row -->
@@ -80,17 +80,6 @@ Senior Developer</p>
 
 </div>
 
-    <div id="aboutpage" style="background-color:white;">
-      <div class="container">
-
-
-    <div class="row">
-<br><br><br><br><br><br>
-<h1>About <b>Spotable</b></h1>
-
-</div><!--/.nav-collapse -->
-</div>
-</div>
 
 
 
@@ -101,7 +90,7 @@ Senior Developer</p>
   <div class="row">
 
 
-
+<div class="col-md-12">
 
 <div class="col-md-1"></div>
 
@@ -123,7 +112,7 @@ Senior Developer</p>
 
   </div>
   </div>
-
+  </div>
 
 
 
