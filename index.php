@@ -112,7 +112,7 @@ else                /* send the submitted data */
 
 
       <div class='row mt centered'>
-        <div class='col-md-6 step'><br>
+        <div class='col-md-6 step'><br><br><br>
         <h4>Step 1</h4>
 
         </div>
@@ -123,7 +123,7 @@ else                /* send the submitted data */
       </div>
 
        <div class='row mt centered'>
-        <div class='col-md-6 ' ><br>
+        <div class='col-md-6 ' ><br><br><br>
         <h4>Step 2</h4>
 
        </div>
@@ -135,7 +135,7 @@ else                /* send the submitted data */
       </div>
 
       <div class='row mt centered'>
-        <div class='col-md-6 step'><br>
+        <div class='col-md-6 step'><br><br><br>
         <h4>Step 3</h4>
 
         </div>
@@ -146,7 +146,7 @@ else                /* send the submitted data */
       </div>
 
        <div class='row mt centered'>
-        <div class='col-md-6 step'><br>
+        <div class='col-md-6 step'><br><br><br>
           <h4>Step 4</h4>
         </div>
         <div class='col-md-6 ' >
@@ -156,7 +156,7 @@ else                /* send the submitted data */
       </div>
 
       <div class='row mt centered'>
-        <div class='col-md-6 step'><br>
+        <div class='col-md-6 step'><br><br><br>
         <h4>Step 5</h4>
 
         </div>
@@ -167,7 +167,7 @@ else                /* send the submitted data */
       </div>
 
         <div class='row mt centered'>
-        <div class='col-md-6 ' ><br>
+        <div class='col-md-6 ' ><br><br><br>
         <h4>Step 6</h4>
 
        </div>
