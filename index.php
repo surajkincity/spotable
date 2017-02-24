@@ -183,8 +183,8 @@ else                /* send the submitted data */
     </div>
   </div>
 
-  <div class="ctadiv">
-
+  <div class="ctadiv col-md-12">
+    <div class='container'>
       <div class='row'>
         <div class="col-md-12">
         <form>
@@ -192,7 +192,7 @@ else                /* send the submitted data */
           <input  placeholder="Email"></input>
           <button class="btn btn-warning btn-lg" style=""><b>Get Quote</b></button>
         </form>
-    
+      </div>
 
        </div>
      </div>
