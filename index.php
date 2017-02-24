@@ -89,7 +89,7 @@ else                /* send the submitted data */
 
 
 
-  <div class='col-md-12' id='about' style="background-color:rgba(252, 252, 252, 1);">
+  <div class='col-md-12' id='about' style="background-color:rgba(253, 253, 253, 1);">
     <div class="container usp" >
 
 <div class='row mt centered'><br>
@@ -99,6 +99,7 @@ else                /* send the submitted data */
 
     </div>
   </div>
+
 
 </div>
 
@@ -113,7 +114,7 @@ else                /* send the submitted data */
       <div class='row mt centered'>
         <div class='col-md-6 step'>
         <h4>Step 1</h4>
-        
+
         </div>
         <div class='col-md-6 ' >
         <h3>Keyword research</h3>
@@ -124,7 +125,7 @@ else                /* send the submitted data */
        <div class='row mt centered'>
         <div class='col-md-6 ' >
         <h4>Step 2</h4>
-        
+
        </div>
         <div class='col-md-6 step'>
         <h3>Site Structure</h3>
@@ -136,7 +137,7 @@ else                /* send the submitted data */
       <div class='row mt centered'>
         <div class='col-md-6 step'>
         <h4>Step 3</h4>
-        
+
         </div>
         <div class='col-md-6 ' >
         <h3>On-Page</h3>
@@ -149,7 +150,7 @@ else                /* send the submitted data */
         </div>
         <div class='col-md-6 ' >
         <h4>Step 4</h4>
-        
+
        </div>
         <h3>Off-Page</h3>
         <p>With the help of our network we continuously develop good links and Ensure that you have the most relevant, high authority backlink profile from your relevant niche. </p>
@@ -159,7 +160,7 @@ else                /* send the submitted data */
       <div class='row mt centered'>
         <div class='col-md-6 step'>
         <h4>Step 5</h4>
-        
+
         </div>
         <div class='col-md-6 ' >
         <h3>Site-Wide issues</h3>
@@ -170,13 +171,13 @@ else                /* send the submitted data */
         <div class='row mt centered'>
         <div class='col-md-6 ' >
         <h4>Step 6</h4>
-       
+
        </div>
         <div class='col-md-6 step'>
          <h3>Reporting</h3>
         <p>At the end of every month, we will send you a report on how your site is performing in terms of ranking in google as well as improvement in  traffic.</p>
         </div>
-        
+
       </div>
 
 
