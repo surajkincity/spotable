@@ -89,7 +89,7 @@ else                /* send the submitted data */
 
 
 
-  <div class='col-md-12' id='about' style="background-color:white;">
+  <div class='col-md-12' id='about' style="background-color:rgba(252, 252, 252, 1);">
     <div class="container usp" >
 
 <div class='row mt centered'><br>
@@ -99,7 +99,7 @@ else                /* send the submitted data */
 
     </div>
   </div>
-<hr style="border-top: dotted 2px;">
+
 </div>
 
 <div class='col-md-12' id='howwework' style="padding: 5%;
