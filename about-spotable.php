@@ -10,7 +10,7 @@
 
       .aboutp {    color: #95a5a6;
     font-weight: 400; font-size: 22px;}
-  
+
     </style>
     <?PHP include "assets/include/externalfiles.html" ; ?>
   </head>
@@ -71,7 +71,7 @@ Senior Developer</p>
 
 
 
-
+<br><br>
 
   </div>
 
