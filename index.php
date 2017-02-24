@@ -90,7 +90,7 @@ else                /* send the submitted data */
 
 
   <div class='col-md-12' id='about' style="background-color:white;">
-    <div class="container usp" style="padding-bottom: 40px;  ">
+    <div class="container usp" >
 
 <div class='row mt centered'><br>
 <h1 style="text-align:center;font-weight: 400;"><span style='color: #00b0ff;'>Spotable</span> is a SEO company located in Pune</h1>
