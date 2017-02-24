@@ -171,7 +171,7 @@ else                /* send the submitted data */
         <p>At the end of every month, we will send you a report on how your site is performing in terms of ranking in google as well as improvement in  traffic.</p>
         </div>
         <div class='col-md-6 ' >
-        <h4>Step 6/h4>
+        <h4>Step 6</h4>
        
        </div>
       </div>
