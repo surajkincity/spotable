@@ -100,7 +100,8 @@ else                /* send the submitted data */
 
 
 </div>
-
+<div class='col-md-12' id='howwework' style="background-color:;">
+    <div class="container" >
 
 <h2 style="text-align: center;color:#00b0ff; "> How we work </h2>
 
@@ -166,7 +167,8 @@ else                /* send the submitted data */
        </div>
       </div>
 
-
+    </div>
+  </div>
 
     </div>
   </div>
