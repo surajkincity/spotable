@@ -6,6 +6,9 @@
  * Version: 1.0
  * URL: http://blacktie.co
  */
+ .navbar {margin-bottom: 0px !important;}
+.navbar-brand{padding-bottom: 7px !important;}
+ .nav li {font-weight: 500;}
 .footerlink:hover{background-color:transparent !important;}
 #howwework{padding: 4%;    border-bottom: 2px solid #f1f1f1;    border-top: 1px solid #f1f1f1;}
 .ctadiv input{    height: 42px;
@@ -14,7 +17,7 @@
     color: #555555;
     vertical-align: middle;
     background-color: #ffffff;    border-radius: 4px;}
-#howwework p {  text-align: left !important;font-size:18px;padding: 5%;padding-top: 2%;}
+#howwework p {  text-align: left !important;font-size:18px;padding: 5%;padding-top: 1%;}
 #howwework h4{font-size:42px !important;font-weight: 300 !important;color: #7d7d7d !important;}
 #howwework h3{font-size:28px !important;font-weight: 400 !important;text-align: left;padding-left: 4%;color: #3498db !important;}
 .ctadiv{background-color: #f1f1f1 !important;text-align: center;padding: 5%;}
@@ -140,9 +143,9 @@ a:after {
 }
 
 /* Helpers */
-.btn-warning{    background-color: #353f49!important;
+.btn-warning{       background-color: #00d574!important;
     font-weight: 600!important;
-    border-color: #353f49!important;}
+        border-color: #00d574!important}
     .form-control{border: 0px solid #cccccc !important;}
 .mt {
 	margin-top: 10px;
@@ -185,10 +188,7 @@ i {
 .aboutteam{padding-top: 5%;}
 .usp img {height:150px;}
 .usp .row{padding: 2% !important;}
-.usp .row div p{padding: 5%;
-    font-size: 20px;
-      font-weight: 400;
-    text-align: left;line-height: 1.5;}
+
 
     .textblock{background-color: rgba(0, 0, 0, 0.05);}
 
@@ -210,5 +210,6 @@ i {
 #aboutpage h1{text-align: center !important;}
 #aboutpage
 #footerstrip{background-color: #00b0ff!important;}
-#aboutpagetext {font-size: 20px !important;font-family: arial; padding:5%;}
-.aboutustext{    padding: 3% 12% 3% 12%;text-align: left;font-size:18px;}
+#aboutpagetext {font-size: 20px !important;font-family: arial; padding:3%;}
+.aboutustext{    text-align: left;font-size:18px;padding-top: 8%;}
+.aboutustexttitle {text-align: left;font-size:32px;font-weight: 300;line-height: 1.3;text-align: center;}

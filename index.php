@@ -5,8 +5,7 @@
     <meta name="description" content="We have an experienced team which includes SEO specialists, full stack developers and even Google’s Ex-Employees.">
     <style type="text/css">
 
-      .aboutp {    color: #95a5a6;
-    font-weight: 400; font-size: 22px;}
+
 
     </style>
     <?PHP include "assets/include/externalfiles.html" ; ?>
@@ -32,10 +31,11 @@
         </div>
         <div class="col-lg-1"></div>
         <div class='col-lg-5'>
-<br><br>
+<br>
           <h2 style="font-weight: 400;color:white;font-size:42px;">
-            Get <b>SEO</b> proposal<br/>
-          for your website.</h2>
+            Get in touch with<br/>
+            an <b>SEO</b> expert
+          </h2>
 <?php
 $action=$_REQUEST['action'];
 if ($action=="")    /* display the contact form */
@@ -89,25 +89,39 @@ else                /* send the submitted data */
 
 
 
-  <div class='col-md-12' id='about' style="background-color:rgba(253, 253, 253, 1);">
+  <div class='col-md-12' id='about' style="background-color:#f9f9f9;">
     <div class="container usp" >
 
 <div class='row mt centered'><br>
-<h1 style="text-align:center;font-weight: 400;"><span style='color: #00b0ff;'>Spotable</span> is a SEO company located in Pune</h1>
+<h1 style="text-align:center;font-weight: 400;"><span style='color: #00b0ff;font-weight:600;'>Spotable</span> is a SEO company located in Pune</h1>
+
+<div class="col-md-12">
+  <div class="col-md-8 col-md-offset-1">
+
 <p  class="aboutustext" style="">Spotable is a digital marketing company specializing in SEO.  From small startups to establish companies, We are helping everyone to make the most out of their digital marketing campaigns. Our team includes some SEO specialists, full stack developers and even Google’s Ex-Employees. We want to provide quality SEO services at affordable prices to new budding startups. </p>
+</div>
+<div class="col-md-2" >
+  <img src='img/shield.png' style="height: 260px;float:left;
+    padding: 30px;padding-top:40px;">
 
 
+</div>
+
+</div>
+</div>
+<p  class="aboutustexttitle"  style=""><i>"Our mission is to make your website visible to your target customer."</i>
+</p><br><br>
     </div>
   </div>
 
 
-</div>
+
 
 <div class='col-md-12' id='howwework' style="padding: 5%;
     background-color: white;">
     <div class="container" >
 
-<h2 style="text-align: center;font-size: 48px;font-weight: 400; "> How we <span style='color:#00b0ff;'>work</span> </h2>
+<h2 style="text-align: center;font-size: 48px;font-weight: 400; "> How we <b>work</b> </h2>
 <p style="text-align:center !important;">
   Our SEO services can be summarized into these 6 core steps
 
