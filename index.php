@@ -89,11 +89,11 @@ else                /* send the submitted data */
 
 
 
-  <div class='col-md-12' id='about' style="background-color:#f9f9f9;">
-    <div class="container usp" >
+  <div class='col-md-12' id='about' style="background-color:white;">
+    <div class="container usp"  style="text-align:center;padding-bottom:5%;">
 
 <div class='row mt centered'><br>
-<h1 style="text-align:center;font-weight: 400;"><span style='color: #00b0ff;font-weight:600;'>Spotable</span> is a SEO company located in Pune</h1>
+<h1 style="text-align:center;font-weight: 400;"><span style='color: #00d674;font-weight:600;'>Spotable</span> is an SEO company located in Pune</h1>
 
 <div class="col-md-12">
   <div class="col-md-8 col-md-offset-1">
@@ -101,7 +101,7 @@ else                /* send the submitted data */
 <p  class="aboutustext" style="">Spotable is a digital marketing company specializing in SEO.  From small startups to establish companies, We are helping everyone to make the most out of their digital marketing campaigns. Our team includes some SEO specialists, full stack developers and even Google’s Ex-Employees. We want to provide quality SEO services at affordable prices to new budding startups. </p>
 </div>
 <div class="col-md-2" >
-  <img src='img/shield.png' style="height: 260px;float:left;
+  <img src='img/shield.png' style="height: 230px;float:left;
     padding: 30px;padding-top:40px;">
 
 
@@ -109,12 +109,21 @@ else                /* send the submitted data */
 
 </div>
 </div>
-<p  class="aboutustexttitle"  style=""><i>"Our mission is to make your website visible to your target customer."</i>
-</p><br><br>
+<button class="btn btn-success" style="padding:15px;width:150px;font-size:20px;font-weight:600;background-color:#00d674;border-color:#00d674;">About us</button>
+
     </div>
   </div>
 
+  <div class="pricing col-md-12">
+    <div class='container'>
+      <div class='row'>
+        <div class="col-md-12">
 
+      </div>
+
+       </div>
+     </div>
+   </div>
 
 
 <div class='col-md-12' id='howwework' style="padding: 5%;
@@ -201,20 +210,6 @@ else                /* send the submitted data */
     </div>
   </div>
 
-  <div class="ctadiv col-md-12">
-    <div class='container'>
-      <div class='row'>
-        <div class="col-md-12">
-        <form>
-          <input  placeholder="Website"></input>
-          <input  placeholder="Email"></input>
-          <button class="btn btn-warning btn-lg" style=""><b>Get Quote</b></button>
-        </form>
-      </div>
-
-       </div>
-     </div>
-   </div>
 
 
 
